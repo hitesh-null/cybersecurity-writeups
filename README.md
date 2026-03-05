@@ -8,5 +8,5 @@ Hi! I'm Hitesh Kumar, a cybersecurity student documenting my learning journey.
 - Notes & Cheatsheets
 
 ## 🔗 Platforms
-- TryHackMe: https://tryhackme.com/p/Hiteshkumar.
+- TryHackMe: https://tryhackme.com/p/Hitesh.k
 - Medium: [coming soon]
