@@ -9,4 +9,4 @@ Hi! I'm Hitesh Kumar, a cybersecurity student documenting my learning journey.
 
 ## 🔗 Platforms
 - TryHackMe: https://tryhackme.com/p/Hitesh.k
-- Medium: https://medium.com/@hitesh.
+- Medium: https://medium.com/@hitesh.kumar0
