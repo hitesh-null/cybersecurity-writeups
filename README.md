@@ -1,2 +1,12 @@
-# cybersecurity-writeups
-My TryHackMe and PortSwigger lab writeups
+# 🛡️ Cybersecurity Writeups
+
+Hi! I'm Hitesh Kumar, a cybersecurity student documenting my learning journey.
+
+## 📂 What's Here
+- TryHackMe Lab Writeups
+- PortSwigger Web Security Labs
+- Notes & Cheatsheets
+
+## 🔗 Platforms
+- TryHackMe: https://tryhackme.com/p/Hiteshkumar.
+- Medium: [coming soon]
